@@ -26,4 +26,4 @@ Compare the effectiveness of clustering and classification in detecting fraudule
 
 ---
 
-The analysis can be found in the `Credit_Fraud.ipynb` notebook file.
+The analysis can be found in the `credit_fraud.ipynb` notebook file.
