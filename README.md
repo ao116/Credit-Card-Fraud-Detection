@@ -6,7 +6,7 @@ This project aims to analyze a European bank dataset to detect fraudulent transa
 2. Classification (e.g., SVM, Logistic Regression) for categorizing transactions as fraudulent or non-fraudulent.
 
 ## Dataset
-- Source: [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/datasets)
+- Source: [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - The dataset consists of transaction records, where each entry is labeled as either fraudulent or non-fraudulent.
 
 ## Project Steps
